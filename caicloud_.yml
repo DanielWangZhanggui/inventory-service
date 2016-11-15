@@ -19,3 +19,4 @@ deploy:
     partition: micosvc
     containers:
     - inventory-service 
+    
