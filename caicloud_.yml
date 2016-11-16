@@ -16,3 +16,4 @@ deploy:
     partition: microsvc
     containers:
     - inventory-service 
+    
