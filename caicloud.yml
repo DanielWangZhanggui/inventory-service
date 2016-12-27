@@ -12,7 +12,7 @@ build:
   dockerfile_name: Dockerfile
 deploy:
   - application: inventory-service
-    cluster: 87fd284d-cec0-48c9-99d3-69eb04e8d49b
+    cluster: 5d9b11cb-0110-444b-b6fd-9815ca651218
     partition: micosvc
     containers:
     - inventory-service 
