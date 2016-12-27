@@ -85,7 +85,7 @@ public class DatabaseInitializer {
                                 "With this stylish Cloud Foundry hoodie you can push code to the cloud all day while staying " +
                                 "comfortable and casual. <br /><br />&nbsp; <strong>Cloud Native PaaS Collection</strong><br />" +
                                 "&nbsp; 10% cloud stuff, 90% platform nylon<br />&nbsp; Cloud wash safe<br />" +
-                                "&nbsp; Five nines of <em>comfortability</em></p>", 21.99))
+                                "&nbsp; Five nines of <em>comfortability</em></p>", 23.99))
                 .stream()
                 .collect(Collectors.toList());
 
