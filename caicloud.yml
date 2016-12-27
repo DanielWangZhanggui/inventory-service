@@ -11,8 +11,8 @@ pre_build:
 build:
   dockerfile_name: Dockerfile
 deploy:
-  - application: inventory-service
+  - deployment: inventory-service
     cluster: 5d9b11cb-0110-444b-b6fd-9815ca651218
-    partition: micosvc
+    namespace: micosvc
     containers:
     - inventory-service 
